@@ -16,7 +16,7 @@ If applicable, you might also mention any specific programming languages or tech
 
 Your introduction is already quite informative and well-structured. These suggestions are minor refinements to make it even more effective. Good job!
 
-Question: Can you explain the concept of "props" in React and how they are used?
+**Question**: Can you explain the concept of "props" in React and how they are used?
 Answer:
 Props are like properties, where they help to pass data from the parent component to the child component.
 and props are immutable  which means we can not change the value of pass data from the child component.
@@ -31,7 +31,7 @@ function ChildComponent(props) {
 }
 This allows you to use the data in the child component for rendering or other operations."
 
-Question: What is the Virtual DOM in React, and why is it important for optimizing performance?
+**Question**: What is the Virtual DOM in React, and why is it important for optimizing performance?
 Answer:
 The Virtual DOM in React is a lightweight, in-memory representation of the actual Document Object Model (DOM). The DOM represents the structure of a web page and allows JavaScript to interact with it.
 
